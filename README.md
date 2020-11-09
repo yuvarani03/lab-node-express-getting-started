@@ -1,12 +1,14 @@
 ![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 # PROGRAD LABS | EXPRESS | GETTING STARTED
 
+In this exercise, the goal is to set up an express server in node:
+
+- express,
+- http
 
 ## Introduction
 
-We are back with our queries! :wink:
-
-We have learned some super useful query operators that will helps us to make much better queries to retrieve the data we need. For this lab, we will be using the **Crunchbase** database. Please keep reading and work on the following iterations.
+Let's try and get started with `express.js`. Express helps in building the node.js application much faster.
 
 ## Requirements
 
@@ -24,3 +26,16 @@ $ git push origin master
 ```
 
 - Create Pull Request so your mentor can check up your work.
+
+### PROGRESSION 1 | NODE SERVER
+Setup the node server by using the `http` module.
+
+### PROGRESSION 2 | EXPRESS
+Setup the express server by using  `express` module
+
+**Do not forget to install the express module**
+```
+npm install express
+```
+
+Happy Coding ProGrads! :heart:
